@@ -9,51 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Nick Simeone
+1008 Winsford Road, Towson, MD, 21204 
+WN95497@umbc.edu • 443-202-3103 
+________________________________________
+EDUCATION
+University of Maryland, Baltimore County (UMBC), Baltimore, MD
+Bachelor of Science Undergraduate Student                                            	            		Expected Graduation:
+Major: Geography and Environmental Systems                                                       	    May 2023
+GIScience Certificate Program (GPA: 4.0)
+GPA: 3.566/4
+Hilltop Scholarship Award
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+CLUBS/ACHEIVEMENTS
+	NSCS Member								                                                                          April 2021 – Present
+	STEM Living Learning Community					                                                            August 2019 – March 2020
+	
+	WORK EXPERIENCE
+	GIS Lab Proctor                                                                                     September 2022 – Present 
+•	Managed a lab where I mentored students and assisted the professors
+•	Developed my understanding of GIS technology by facilitating learning and reconfirming acquired skills 
+	Big Truck Farm Brewery Server/Bartender                                                             October 2020 – Present 
+•	Dedicated to customer service by quickly and carefully catering to the demands of those who I am serving
+•	Established a persistent and reliable work culture among coworkers to ensure the success of a growing company
+National Park Service GIS Intern						 	                                                        June 2022 – September 2022
+•	Conducted a GIS project where I recorded attributes for a catalog of trees on a historic property and developed an app displaying the data
+•	Developed a strong understanding of spatial data collection and analysis
+Casa Mia’s Bus Boy/Delivery Driver					         	                                               November 2017 – August 2020
+•	Managed busboy duties by creating weekly schedules and assigning shifts based upon strengths
+•	Facilitated teamwork in pressure situations by staying quick on my feet and being consistently attentive to the needs of the servers and bartenders
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+RELEVANT COURSEWORK
+Labs
+•	Remote Sensing
+•	Exploring the Environment: A Geo-Spatial Perspective
+•	Statistical and Thematic Cartography
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+SKILLS
+Software: ArcGIS Pro, QGIS, Python, ENVI, Office (Excel, Word, PowerPoint)
+Interpersonal: Leadership in a team setting, strong communication and social skills
