@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-University of Maryland, Baltimore County (UMBC), Baltimore, MD
-Bachelor of Science Undergraduate Student                                            	            		
-Major: Geography and Environmental Systems, May, 2023                                                      	 
-GIScience Certificate Program (GPA: 4.0)
-GPA: 3.566/4
-Hilltop Scholarship Award
+- University of Maryland, Baltimore County (UMBC), Baltimore, MD
+- Bachelor of Science Undergraduate Student                                            	            		
+- Major: Geography and Environmental Systems, May, 2023                                                      	 
+- GIScience Certificate Program (GPA: 4.0)
+- GPA: 3.566/4
+- Hilltop Scholarship Award
 
 Work experience
 ======
@@ -43,13 +43,13 @@ Casa Mia’s Bus Boy/Delivery Driver(November 2017 – August 2020)
   
 Skills
 ======
-Software: ArcGIS Pro, QGIS, Python, ENVI, Office (Excel, Word, PowerPoint)
-Interpersonal: Leadership in a team setting, strong communication and social skills
+- Software: ArcGIS Pro, QGIS, Python, ENVI, Office (Excel, Word, PowerPoint)
+- Interpersonal: Leadership in a team setting, strong communication and social skills
 
 
 Relevant Coursework
 ======
 Labs
-•	Remote Sensing
-•	Exploring the Environment: A Geo-Spatial Perspective
-•	Statistical and Thematic Cartography
+-	Remote Sensing
+-	Exploring the Environment: A Geo-Spatial Perspective
+-	Statistical and Thematic Cartography
