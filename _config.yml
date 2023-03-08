@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Nick Simeone"
 title_separator          : "-"
-name                     : &name "Nik Simeone"
+name                     : &name "Nick Simeone"
 description              : &description "GIS Technician"
 url                      : https://NickSimeone.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
