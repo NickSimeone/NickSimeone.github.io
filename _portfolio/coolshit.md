@@ -1,6 +1,6 @@
 ---
 title: "Utah Infestation Map"
-excerpt: "Visualization beetle infestation risk in the state of Utah <br/><img src='/images/Residential_Areas_and_Years.png'>"
+excerpt: "Visualization beetle infestation risk in the state of Utah <br/><img src='/images/res.png'>"
 collection: portfolio
 ---
 
