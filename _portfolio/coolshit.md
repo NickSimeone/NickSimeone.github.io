@@ -1,6 +1,6 @@
 ---
-title: "Lab 6"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Utah Infestation Map"
+excerpt: "Visualization beetle infestation risk in the state of Utah <br/><img src='/images/Part 3 -1.png'>"
 collection: portfolio
 ---
 
