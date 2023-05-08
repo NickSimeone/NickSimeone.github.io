@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Resume"
-permalink: /cv/
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -43,7 +43,7 @@ Casa Mia’s Bus Boy/Delivery Driver(November 2017 – August 2020)
   
 Skills
 ======
-- Software: ArcGIS Pro, QGIS, Python, ENVI, Office (Excel, Word, PowerPoint)
+- Software: ArcGIS Pro, Rstudio, QGIS, Python, ENVI, Office (Excel, Word, PowerPoint)
 - Interpersonal: Leadership in a team setting, strong communication and social skills
 
 
