@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 - University of Maryland, Baltimore County (UMBC), Baltimore, MD
-- Bachelor of Science Undergraduate Student                                            	            		
+- Bachelor of Science Graduate                                            	            		
 - Major: Geography and Environmental Systems, May, 2023                                                      	 
-- GIScience Certificate Program (GPA: 4.0)
-- GPA: 3.566/4
+- GIScience Certificate (GPA: 4.0)
+- GPA: 3.619/4
 - Hilltop Scholarship Award
 
 Work experience
@@ -28,7 +28,7 @@ GIS Lab Proctor/Tutor(September 2022 - Present)
 -	Managed a lab where I mentored students and assisted the professors
 -	Developed my understanding of GIS technology by facilitating learning and reconfirming acquired skills 
 
-Big Truck Farm Brewery Server/Bartender(October 2020 - Present)                                                            	
+Big Truck Farm Brewery Manager/Server/Bartender(October 2020 - Present)                                                            	
 -	Dedicated to customer service by quickly and carefully catering to the demands of those who I am serving
 -	Established a persistent and reliable work culture among coworkers to ensure the success of a growing company
 
@@ -43,7 +43,7 @@ Casa Mia’s Bus Boy/Delivery Driver(November 2017 – August 2020)
   
 Skills
 ======
-- Software: ArcGIS Pro, Rstudio, QGIS, Python, ENVI, Office (Excel, Word, PowerPoint)
+- Software: ArcGIS Pro, Rstudio, SQL, QGIS, Python, ENVI, Office (Excel, Word, PowerPoint)
 - Interpersonal: Leadership in a team setting, strong communication and social skills
 
 
