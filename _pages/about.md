@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 ### School
-As an undergraduate student majoring in Geography and Environmental Systems, I have always had a strong passion for understanding the world we live in and using geospatial technologies to solve complex problems. Throughout my academic journey, I have worked hard and achieved a GPA of 3.566/4, as well as completing a GIScience Certificate Program with a perfect GPA of 4.0.
+As an undergraduate student majoring in Geography and Environmental Systems, I had always had a strong passion for understanding the world we live in and using geospatial technologies to solve complex problems. Throughout my academic journey, I worked hard and achieved a GPA of 3.619/4, as well as completing a GIScience Certificate Program with a perfect GPA of 4.0.
+
+Kicking off the next stage of my academic adventure as a graduate student of the University of Maryland, Baltimore County, I aim to conduct research comparing the statistical significance of stream temperature at spatial and temporal levels. As a research assistant at the Center for Urban Environmental Research and Education, I plan to compose my thesis based off of the findings that I will uncover during my research along with the sptial projects I will create using GIS. 
 
 My coursework has provided me with a solid foundation in the fundamentals of geography and environmental systems, while also providing advanced knowledge in remote sensing, thematic cartography, and exploring the environment from a geospatial perspective. This has helped me to develop a strong understanding of the subject matter and become well-equipped to handle any challenges that come my way.
 
