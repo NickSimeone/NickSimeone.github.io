@@ -11,8 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-Publications
-=====
 - Spatial Analysis of Stream Temperature Response to Patterns of Land Cover and Stormwater Infrastructure – Master's Thesis Defense, UMBC, April 2025
 - Evaluation of Watershed-Scale Impacts of Stormwater Infrastructure on Stream Temperature (Co-author) – AGU Fall Meeting, Washington, DC, December 2024
 - Impacts of Summer Storms on the Thermal Regime of Dead Run (Co-author) – Maryland Water Monitoring Council Annual Conference, November 2024
