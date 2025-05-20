@@ -48,14 +48,6 @@ Additional Experience
 - Collaborated with a published author to create bridge location maps, ensuring accurate and visually effective cartographic outputs
 - Supported faculty research by delineating drainage basins and extracting impervious surface data for hydrological modeling in the Patapsco watershed
 
-Professional Presentations
-=====
-- Spatial Analysis of Stream Temperature Response to Patterns of Land Cover and Stormwater Infrastructure – Master's Thesis Defense, UMBC, April 2025
-- Evaluation of Watershed-Scale Impacts of Stormwater Infrastructure on Stream Temperature (Co-author) – AGU Fall Meeting, Washington, DC, December 2024
-- Impacts of Summer Storms on the Thermal Regime of Dead Run (Co-author) – Maryland Water Monitoring Council Annual Conference, November 2024
-- Visualizing Thermal Fluctuations of the Dead Run Stream Network – Poster, Baltimore Ecosystem Study Annual Meeting, October 2023
-- Thermal Fluctuations in a Maryland Use Class IV Stream – Poster, Maryland Water Monitoring Council Annual Conference, November 2023
-
 Relevant Coursework
 ======
 Advanced Applications in Geographic Information Systems, Statistical and Thematic Cartography, Exploring the Environment: A Geo-Spatial Perspective, Remote Sensing of the Environment, Just Maps: Critical and Ethical Aspects of Mapping, Building Spatial Datasets, Spatial Data Analysis and GIS Applications, Watershed Analysis & Modeling
